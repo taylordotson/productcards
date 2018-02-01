@@ -2,10 +2,26 @@
     display: inline-block;
     width: 30%;
     border: 1px solid #add8e6;
-    height: 400px;
+    height: 500px;
     margin: 10px;
 }
 
 header {
     border: 1px dotted lightgray;
+}
+
+.image-holder p {
+    text-align: justify;
+}
+
+.specifications {
+    width: 100%;
+    background-color: darkgray;
+    text-align: left;
+    color: yellow;
+}
+
+.pricing p {
+    margin: 1px;
+    font-size: small;
 }
